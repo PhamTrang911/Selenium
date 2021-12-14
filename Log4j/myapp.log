@@ -1,0 +1,9 @@
+2017-12-29 22:49:44 DEBUG Demo:9 - debug log
+2017-12-29 22:49:44 ERROR Demo:10 - error log
+2017-12-29 22:49:44 INFO  Demo:11 - info log
+2021-12-14 14:19:55 DEBUG Demo:9 - debug log
+2021-12-14 14:19:55 ERROR Demo:10 - error log
+2021-12-14 14:19:55 INFO  Demo:11 - info log
+2021-12-14 14:58:42 DEBUG Demo:9 - debug log
+2021-12-14 14:58:42 ERROR Demo:10 - error log
+2021-12-14 14:58:42 INFO  Demo:11 - info log
