@@ -1,13 +1,15 @@
-package handlecheckbox_dropdown_radius;
+package handleCheckbox_Dropdown_Radius;
 
 import org.openqa.selenium.support.ui.*;
+
+import initilization.*;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
-import Initilization.*;
 
 public class DropDownList extends Init{
         public static void main(String[] args) throws Exception {

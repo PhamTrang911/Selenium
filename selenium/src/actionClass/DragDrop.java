@@ -1,4 +1,4 @@
-package action_class;
+package actionClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;

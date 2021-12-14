@@ -1,10 +1,10 @@
 eclipse.preferences.version=1
-encoding//src/Initilization/Init.java=UTF-8
-encoding//src/action_class/DoubleAndRightClick.java=UTF-8
+encoding//src/actionClass/DoubleAndRightClick.java=UTF-8
 encoding//src/commands/Commands.java=UTF-8
-encoding//src/handlecheckbox_dropdown_radius/CheckBox.java=UTF-8
-encoding//src/handlecheckbox_dropdown_radius/DropDownList.java=UTF-8
+encoding//src/handleCheckbox_Dropdown_Radius/CheckBox.java=UTF-8
+encoding//src/handleCheckbox_Dropdown_Radius/DropDownList.java=UTF-8
+encoding//src/initilization/Init.java=UTF-8
 encoding//src/locators/Locators.java=UTF-8
 encoding//src/mouse_keyboard/Test.java=UTF-8
 encoding//src/popup/PopupTest.java=UTF-8
-encoding//src/web_element/TestWebElement.java=UTF-8
+encoding//src/webElement/TestWebElement.java=UTF-8

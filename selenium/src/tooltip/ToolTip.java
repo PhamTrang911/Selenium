@@ -3,7 +3,7 @@ package tooltip;
 
 import org.openqa.selenium.WebElement;
 
-import Initilization.Init;
+import initilization.Init;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;

@@ -1,9 +1,10 @@
-package waitcommand;
+package waitCommand;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import Initilization.Init;
+
+import initilization.Init;
 
 public class Wait extends Init{
 	

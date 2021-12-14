@@ -3,7 +3,8 @@ package mouse_keyboard;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
-import Initilization.Init;
+import initilization.Init;
+
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 

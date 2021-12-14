@@ -2,7 +2,7 @@ package frame;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
 
-import Initilization.Init;
+import initilization.Init;
 
 public class FrameTest extends Init{
 	public static void main(String[] args) throws NoAlertPresentException,InterruptedException, Exception  {	

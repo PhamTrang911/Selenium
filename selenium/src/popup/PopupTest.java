@@ -3,7 +3,8 @@ package popup;
 import java.util.Iterator;
 import java.util.Set;
 import org.openqa.selenium.By;
-import Initilization.*;
+
+import initilization.*;
 
 public class PopupTest extends Init{
 	public static void main(String[] args) throws InterruptedException {
@@ -27,7 +28,7 @@ public class PopupTest extends Init{
 			//Switch to Child window
 			driver.switchTo().window(window);
 			Thread.sleep(2000);
-			System.out.println("�?ã chuyển đến lớp Window con");
+			System.out.println("�?ã chuyển đến lớp Window con");
 			driver.findElement(By.name("emailid")).sendKeys("abc@gmail.com");
 			driver.findElement(By.name("btnLogin")).click();
 			// Closing the Child Window.
@@ -37,6 +38,6 @@ public class PopupTest extends Init{
 	}
 	// Switching to Parent window (Main Window)
 	driver.switchTo().window(MainWindow);
-	System.out.println("�?ã chuyển v�? lớp Window chính: "+ driver.getTitle());
+	System.out.println("�?ã chuyển v�? lớp Window chính: "+ driver.getTitle());
    }
 }

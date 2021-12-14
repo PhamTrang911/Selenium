@@ -3,9 +3,7 @@ package alert;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
-
-import Initilization.Init;
-
+import initilization.Init;
 public class AlertTest extends Init{
 	
 	public static void main(String[] args) throws NoAlertPresentException,InterruptedException, Exception  {	

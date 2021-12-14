@@ -3,7 +3,8 @@ package jsExecutor;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import Initilization.Init;
+
+import initilization.Init;
 
 
 public class jsExecute extends Init{
